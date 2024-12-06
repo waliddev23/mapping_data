@@ -25,8 +25,8 @@ Jupyter Notebook demonstrating the conversion process and mapping workflows, inc
 1. DXF to SHP Conversion
 Ensure you have QGIS installed on your machine.
 
-1. Open QGIS and import your DXF file.
-2. Use the "Save As" function to export the data as a shapefile (SHP).
+a. Open QGIS and import your DXF file.
+b. Use the "Save As" function to export the data as a shapefile (SHP).
 2. Automated Symbolization
 Run the Python script to apply predefined styles to your shapefiles.
 
