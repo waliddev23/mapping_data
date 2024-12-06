@@ -35,6 +35,8 @@ This folder contains tools and scripts for converting DXF files (commonly used i
 - Enhance symbolization scripts to support more geometry types.
 - Integrate real-time updates from external databases.
 
+#
+
 # Convert LST GeoID Grid to TIFF Format 🗺️
 
 This notebook, geoide_groupe3.ipynb, demonstrates how to process LST GeoID grid data and convert it into a TIFF format for spatial analysis and visualization in GIS software.
