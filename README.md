@@ -24,46 +24,11 @@ This folder contains tools and scripts for converting DXF files (commonly used i
 
   (Optional) Placeholder for input DXF files and output SHP files.
 
-# 📋 How to Use
-1. DXF to SHP Conversion
-
-Ensure you have QGIS installed on your machine.
-
-  a. Open QGIS and import your DXF file.
-
-  b. Use the "Save As" function to export the data as a shapefile (SHP).
-
-2. Automated Symbolization
-
-Run the Python script to apply predefined styles to your shapefiles.
-
-
-    python code_symbolisation_qgis.py  
-
-3. Mapping and Visualization
-
-Open
-
-    mapping.ipynb 
-to explore data visualization and mapping workflows.
-
-
-    jupyter notebook mapping.ipynb  
+  
 # 💻 Technologies Used
 - GIS Software: QGIS
 - Programming: Python (PyQGIS, Geopandas)
 - Visualization: Jupyter Notebook
-# 🖼️ Examples
-1. Symbolized Shapefile
-
-Automated styling applied to building footprints in QGIS:
-
-2. Mapping Workflow in Jupyter
-
-Interactive map visualization from 
-
-    the mapping.ipynb 
-notebook:
 
 # 🌟 Future Improvements
 - Add functionality for batch DXF to SHP conversion.
