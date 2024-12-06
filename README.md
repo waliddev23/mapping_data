@@ -4,7 +4,7 @@ This folder contains tools and scripts for converting DXF files (commonly used i
 # 🚀 Features
 1. DXF to SHP Conversion
 
-# -  Transform CAD files into shapefiles for GIS analysis.
+  -  Transform CAD files into shapefiles for GIS analysis.
 2. Automated Symbolization in QGIS
 
 - Python scripts to automate styling and symbolization for easy visualization.
