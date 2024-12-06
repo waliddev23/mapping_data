@@ -1,4 +1,4 @@
-# Convert LST GeoID Grid to TIFF Format 🗺️
+# Convert LST GeoID Grid to TIFF Format 🗺️ 
 
 This notebook, geoide_groupe3.ipynb, demonstrates how to process LST GeoID grid data and convert it into a TIFF format for spatial analysis and visualization in GIS software.
 
