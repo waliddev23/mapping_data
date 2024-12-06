@@ -4,15 +4,15 @@ This folder contains tools and scripts for converting DXF files (commonly used i
 # 🚀 Features
 1. DXF to SHP Conversion
 
-Transform CAD files into shapefiles for GIS analysis.
-Automated Symbolization in QGIS
+- Transform CAD files into shapefiles for GIS analysis.
+2. Automated Symbolization in QGIS
 
-Python scripts to automate styling and symbolization for easy visualization.
-Interactive Mapping
+- Python scripts to automate styling and symbolization for easy visualization.
+3. Interactive Mapping
 
-Jupyter Notebook showcasing mapping workflows and visualizations.
+- Jupyter Notebook showcasing mapping workflows and visualizations.
 # 📂 Folder Structure
-code_symbolisation_qgis.py
+- code_symbolisation_qgis.py
 Python script for automating the symbolization of shapefiles in QGIS.
 
 mapping.ipynb
