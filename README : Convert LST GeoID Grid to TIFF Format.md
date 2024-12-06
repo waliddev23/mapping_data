@@ -45,13 +45,6 @@ Place your GeoID grid file in the data/ folder and modify the input file path in
 
 Execute the notebook cells to process the grid file and output a GeoTIFF file in the desired location.
 
-# 🖼️ Examples
-
-1. Input GeoID Grid
-
-A sample grid file used as input for processing.
-
-2. Generated GeoTIFF
 
 # 💻 Technologies Used
 - Programming: Python
@@ -60,11 +53,4 @@ A sample grid file used as input for processing.
 - Add support for batch conversion of multiple grid files.
 - Implement error handling for missing or incompatible grid data.
 - Integrate interactive visualization for the resulting GeoTIFFs.
-
-# 📞 Contact
-Feel free to reach out for questions or suggestions!
-
-Walid
-
-GitHub: @waliddev23
 
