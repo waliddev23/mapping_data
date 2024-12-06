@@ -26,25 +26,6 @@ Jupyter Notebook for processing and converting GeoID grid files.
 
 (Optional) Contains example outputs and visualizations.
 
-# 📋 How to Use
-1. Prepare the Environment
-
-Ensure you have the required dependencies installed:
-
-    pip install numpy pandas matplotlib rasterio geopandas
-2. Run the Notebook
-
-Open the notebook in Jupyter or JupyterLab:
-
-    jupyter notebook geoide_groupe3.ipynb
-3. Provide Input Data
-
-Place your GeoID grid file in the data/ folder and modify the input file path in the notebook.
-
-4. Generate TIFF
-
-Execute the notebook cells to process the grid file and output a GeoTIFF file in the desired location.
-
 
 # 💻 Technologies Used
 - Programming: Python
