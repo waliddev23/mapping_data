@@ -23,7 +23,7 @@ layer = QgsVectorLayer(faubourg, 'faubourg', 'ogr')
 QgsProject.instance().addMapLayer(layer)
 # Définir le motif de hachures
 hatch = QgsFillSymbol.createSimple({'style':'horizontal', 'color':'black'})
-symbol = QgsFillSymbol.createSimple({'color': 'red','outline':'red8'})
+symbol = QgsFillSymbol.createSimple({'color': 'red','outline':'red'})
 # Définir le symbole de remplissage
 layer.renderer().setSymbol(symbol)
 # Mettre à jour le moteur de rendu pour le calque
