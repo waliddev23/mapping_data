@@ -88,5 +88,4 @@ mapping_data/
 - [ ] More geometry types in the symbolization script
 - [ ] Batch GeoID grid conversion with error handling
 
-## 📞 Contact
-Questions or suggestions? Reach out — **Walid** (@waliddev23)
+
